@@ -7,7 +7,7 @@ dependencies = [
     "numpy",
     "h5py",
     "pandas",
-    "pooch",
+    "pooch[progress]",
     "prettytable",
     "typing-extensions",
 ]
